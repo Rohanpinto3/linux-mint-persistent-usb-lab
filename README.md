@@ -149,7 +149,7 @@ Successfully booted into Linux Mint from the USB.
 
 <div align="center">
 
-# 🚀 Mission Accomplished
+#  Mission Accomplished
 
 <img src="https://files.catbox.moe/npyj0n.png" width="180">
 
